@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/VovaDym/Client_Server_TCP_MultiThread">
+  <a href="https://github.com/VovaDym/client_server_tcp_multithread">
     <img src="resourse/LogoTCP.png" alt="Logo" width="80" height="80">
   </a>
 
