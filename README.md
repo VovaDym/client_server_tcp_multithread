@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/VovaDym/Client_Server_TCP_MultiThread">
-    <img src="LogoTCP.png" alt="Logo" width="80" height="80">
+    <img src="resourse/LogoTCP.png" alt="Logo" width="50" height="50">
   </a>
 
 <h2 align="center">"SearchEngine"</h2>
