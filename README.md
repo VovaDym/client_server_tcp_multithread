@@ -5,7 +5,7 @@
     <img src="resourse/LogoTCP.png" alt="Logo" width="80" height="80">
   </a>
 
-<h2 align="center">"SearchEngine"</h2>
+<h2 align="center">"ClientServerTCP"</h2>
 
   <p align="center">
     Приложение локального поискового движка по файлам
