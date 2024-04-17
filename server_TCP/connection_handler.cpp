@@ -54,7 +54,7 @@ void ConnectionHandler::threadFunc()
     {
         std::string msg = this->readMessage();
         std::cout << "The client connected by name: " << msg << std::endl;
-        // this->sendMessage("Thank you for your message " + msg);
+        
         mtx.lock();   
         out_file.open("log.txt",std::ios::out|std::ios::app);      
         if (out_file.is_open())
